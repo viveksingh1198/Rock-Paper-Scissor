@@ -1,0 +1,19 @@
+.choiceBtn{
+    line-height: 35px;
+    width: 130px;
+    border-radius: 5px;
+}
+#gameDiv{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(27, 65, 65);
+    text-align: center;
+}
+#playerText{
+    color: rgb(19, 125, 167);
+}
+#computerText{
+    color: rgb(12, 136, 43);
+}

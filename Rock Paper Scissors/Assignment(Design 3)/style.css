@@ -1,0 +1,123 @@
+ @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@500&display=swap');
+
+.container{
+
+    /* height: 100vh; */
+    background-color: rgba(223, 211, 211, 0.3);
+    margin: 5px;
+    padding: 40px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.box1{
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 450px;
+    height: 200px;
+    color: #521f51;
+    /* border: 1px solid black; */
+    
+    
+}
+
+   span{
+
+    font-size: 40px;
+   }
+
+   p{
+    font-size: 15px;
+    color: #f7f3f7;
+    font-family: 'League Spartan', sans-serif;
+   }
+
+   .left_box{
+    /* margin-top: 20px; */
+    height: 240px;
+    width: 400px;
+    border: 2px solid black;
+    margin-right: 80px;
+    
+
+   }
+
+   .star{
+    /* border: 1px solid black; */
+    height: 35px;
+    width: 350px;
+    margin: 15px;
+    background-color: #f7f2f8;
+    padding-left: 5px;
+    padding-top: 15px;
+    border-radius: 10px;
+    color: #573d57;
+    margin-right: 10%;
+   }
+
+   img{
+
+    width: 15px;
+    height: 15px;
+    margin-right: 15px;
+
+   }
+
+
+   #s1{
+
+    margin-left: 10px;
+   }
+   #s2{
+    margin-left: 30px;
+   }
+   #s3{
+    margin-left: 50px;
+   }
+    
+   .lower_box{
+
+    display: flex;
+    /* justify-items: center; */
+    /* border: 2px solid black; */
+    margin-left: 60px;
+
+}
+
+     .sb{
+        
+        width: 300px;
+        height: 180px;
+        margin: 10px;
+        padding-left: 30px;
+        padding-top:40px;
+        padding-right: 15px;
+        border-radius: 10px;
+        background-color: #511f50;
+
+
+     }
+     .profile{
+        
+        width: 30px;
+        height: 30px;
+        border-radius: 15px;
+        
+     }
+
+     #sb2{
+
+        margin-top: 40px;
+
+     }
+
+     #sb3{
+
+        margin-top: 70px;
+   }
+
+    
